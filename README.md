@@ -4,6 +4,14 @@
 Proyecto educativo realizado durante el primer curso del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Sitio web estático para una empresa ficticia de eventos.
 
 
+## 🖼️ Capturas de pantalla del proyecto
+
+### Página principal
+![Página principal de Happines&CO](assets/ImagenWeb.jpg)
+
+### Lista de eventos
+![Lista de eventos](assets/otra-imagenWeb2.jpg)
+
 
 ---
 
