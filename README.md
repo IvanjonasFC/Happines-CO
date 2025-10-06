@@ -1,8 +1,9 @@
  
 # 🎉 Página Happines&CO — Proyecto DAM 1º
 
-Proyecto educativo realizado durante el primer curso del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Sitio web estático para una empresa ficticia de eventos.
+Proyecto educativo, desarrollado durante el primer curso del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM). Se trata de una página web estática para una empresa  llamada Happines&CO, especializada en la organización de eventos culturales y festivos en Asturias. 
 
+El objetivo principal era aplicar los conocimientos  de desarrollo web aprendidos en clase: estructurar contenido con HTML5, darle estilo con CSS y comenzar a entender cómo funciona la navegación entre páginas en un sitio web. Practicando la integración de recursos externos y la organización lógica del proyecto. 
 
 ## 🖼️ Capturas de pantalla del proyecto
 
