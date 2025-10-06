@@ -3,7 +3,7 @@
 
 **Proyecto educativo realizado durante el primer curso del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Sitio web estático para una empresa ficticia de eventos.
 
-[Live demo en GitHub Pages](https://ivanjonasfc.github.io/pagina-web-practica-dam1/index.html)
+
 
 ---
 
@@ -44,29 +44,21 @@ Pagina-Happines&CO/
 ---
 
 ## 🚀 Cómo ver el proyecto (local)
-1. Clona el repo:
+1. Clona el repo y abrir la pagina index en local:
    ```bash
    git clone https://github.com/ivanjonasfc/pagina-web-practica-dam1.git
-   cd pagina-web-practica-dam1
+   
    ```
-2. Accede mediante el enlace:
-   https://ivanjonasfc.github.io/pagina-web-practica-dam1/index.html
+2. [Live demo en GitHub Pages](https://ivanjonasfc.github.io/pagina-web-practica-dam1/index.html)
 
 ---
-
-## ✅ Mejora rápida y checklist
-- HTML semántico
-- Meta viewport para responsive
-- CSS modular en `assets/css/`
-- Imágenes optimizadas con `alt`
-- Navegación consistente
-- Añadir screenshots en README
 
 ---
 
 ## 📚 Aprendizaje
 - Organización de ficheros.
 - Enlaces entre páginas.
+- Uso de Css/JavaScript
 - Buenas prácticas web estáticas.
 
 ---
