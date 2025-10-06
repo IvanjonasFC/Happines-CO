@@ -49,11 +49,8 @@ Pagina-Happines&CO/
    git clone https://github.com/ivanjonasfc/pagina-web-practica-dam1.git
    cd pagina-web-practica-dam1
    ```
-2. Abre `index.html` en tu navegador **o** sirve con Python:
-   ```bash
-   python -m http.server 8000
-   # luego abre http://localhost:8000
-   ```
+2. Accede mediante el enlace:
+   https://ivanjonasfc.github.io/pagina-web-practica-dam1/index.html
 
 ---
 
