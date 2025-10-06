@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "ASENT";
+  src: url("../fonts/ASENT.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  letter-spacing: 0.15em;
+  font-weight: bold;
+  font-size: 25px;
+    font-family: "ASENT";
+    background-color: var(--color-bg);
+    color: #050505;
+    line-height: 1.7;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display:flex;
+}
+
+
+.menu ul { 
+  margin: 5px auto 0;
+  padding: 0;
+  list-style: none;
+  display: flex;  
+  justify-content: center; 
+  flex-wrap: wrap;
+  }
+  li { 
+    padding: 15px 0;
+    text-align: center;
+    margin: 0 5px;
+  }
+.proximos-eventos a ,.menu a {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.15em;
+    
+    display: inline-block;
+    padding: 15px 20px;
+    position: relative;
+  }
+  a:after {    
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: #fff;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+  }
+  a:hover:after { 
+    width: 100%; 
+    left: 0; 
+  }
+  @media screen and (max-height: 300px) {
+      ul {
+          margin-top: 40px;
+      }
+  }
+  
