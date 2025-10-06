@@ -1,0 +1,48 @@
+.contenido-principal {
+    display: flex;
+    flex-direction: column; 
+    padding: var(--spacing);
+}
+.historial-eventos, .recomendados {
+    width: 100%; 
+    margin-bottom: var(--spacing);
+}
+
+.proximos, .historial-eventos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: var(--spacing);
+}
+
+.proximos-eventos h2 {
+    width: 100%;
+    margin-bottom: var(--spacing);
+}
+
+.evento {
+    flex: 1 1 300px;
+    border: 1px solid var(--color-border);
+    padding: var(--spacing-small);
+    margin: 10px;
+    border-radius: var(--border-radius);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.evento:hover {
+    transform: translateY(-5px);
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.evento img {
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: var(--spacing-small);
+    border-radius: var(--border-radius);
+}
+
+.evento h3 a {
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-small);
+    display: block;
+}
