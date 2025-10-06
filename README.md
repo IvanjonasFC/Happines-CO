@@ -7,11 +7,7 @@ Proyecto educativo realizado durante el primer curso del ciclo formativo de **De
 ## 🖼️ Capturas de pantalla del proyecto
 
 ### Página principal
-![Página principal de Happines&CO](assets/ImagenWeb.jpg)
-
-### Lista de eventos
-![Lista de eventos](assets/otra-imagenweb2.jpg)
-
+![Página principal de Happines&CO](assets/imagenweb2.jpg)
 
 ---
 
