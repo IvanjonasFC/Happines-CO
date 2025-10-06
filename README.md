@@ -1,7 +1,7 @@
  
 # 🎉 Página Happines&CO — Proyecto DAM 1º
 
-**Proyecto educativo realizado durante el primer curso del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Sitio web estático para una empresa ficticia de eventos.
+Proyecto educativo realizado durante el primer curso del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Sitio web estático para una empresa ficticia de eventos.
 
 
 
