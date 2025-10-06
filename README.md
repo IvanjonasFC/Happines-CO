@@ -1,45 +1,80 @@
  
-# 🎉 Pagina Happines&CO - Proyecto Educativo DAM 1º
-Proyecto educativo realizado durante el primer curso del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Sitio web estático para una empresa ficticia de eventos.
+# 🎉 Página Happines&CO — Proyecto DAM 1º
+
+**Proyecto educativo realizado durante el primer curso del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Sitio web estático para una empresa ficticia de eventos.
+
+[Live demo en GitHub Pages](https://ivanjonasfc.github.io/pagina-web-practica-dam1/index.html)
+
+---
 
 ## 📌 Objetivo
-Crear una página web con múltiples secciones (eventos, historia, nosotros, fuentes) para practicar estructura HTML, CSS y navegación básica.
+Practicar estructura HTML, CSS y navegación entre páginas mediante una web estática con secciones: eventos, historia, equipo y fuentes.
 
-## 🗂️ Estructura del proyecto
-Pagina Happines&CO/
-├── index.html             ← Página principal
-├── eventos.html           ← Lista de eventos
-├── historial.html         ← Historia de la empresa
-├── nosotros.html          ← Información del equipo
-├── fuentes.html           ← Créditos y fuentes
-├── eventos/               ← Carpetas con páginas de eventos individuales
+---
+
+## 📁 Estructura del proyecto
+```
+Pagina-Happines&CO/
+├── index.html
+├── eventos.html
+├── historial.html
+├── nosotros.html
+├── fuentes.html
+├── eventos/
 │   ├── eventoFeria.html
 │   ├── eventoNWNF.html
 │   ├── eventoRock.html
 │   ├── eventoSidra.html
 │   └── eventoTeatro.html
-└── assets/                ← Imágenes, estilos y recursos
+└── assets/
     ├── css/
+    │   └── main.css
     ├── img/
-    └── js/ 
- 
+    └── js/
+        └── main.js
+```
 
-## 🛠️ Tecnologías usadas
-- HTML5
-- CSS3 (básico)
-- JavaScript (opcional)
+---
 
+## 🛠 Tecnologías
+- HTML5 semántico
+- CSS3 (responsive)
+- JavaScript (mínimo, progresivo)
 
-## 🚀 Cómo verlo
-Simplemente abre cualquier archivo `.html` en tu navegador (por ejemplo, `index.html`).
+---
+
+## 🚀 Cómo ver el proyecto (local)
+1. Clona el repo:
+   ```bash
+   git clone https://github.com/ivanjonasfc/pagina-web-practica-dam1.git
+   cd pagina-web-practica-dam1
+   ```
+2. Abre `index.html` en tu navegador **o** sirve con Python:
+   ```bash
+   python -m http.server 8000
+   # luego abre http://localhost:8000
+   ```
+
+---
+
+## ✅ Mejora rápida y checklist
+- HTML semántico
+- Meta viewport para responsive
+- CSS modular en `assets/css/`
+- Imágenes optimizadas con `alt`
+- Navegación consistente
+- Añadir screenshots en README
+
+---
 
 ## 📚 Aprendizaje
-Este proyecto me ayudó a entender:
-- La estructura básica de un sitio web.
-- Cómo organizar archivos en carpetas.
-- Cómo enlazar páginas entre sí.
-- La importancia de una buena navegación.
+- Organización de ficheros.
+- Enlaces entre páginas.
+- Buenas prácticas web estáticas.
 
-## 🔗 Enlace a la versión online
-https://ivanjonasfc.github.io/pagina-web-practica-dam1/index.html
+---
+
+## ✉️ Contacto
+Ivan Jonas — https://github.com/ivanjonasfc
+
  
