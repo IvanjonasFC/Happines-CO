@@ -40,8 +40,6 @@ Este proyecto me ayudó a entender:
 - Cómo enlazar páginas entre sí.
 - La importancia de una buena navegación.
 
-## 🔗 Enlace a la versión online (opcional)
-Si activas GitHub Pages, podrás compartir una URL pública como:  
-👉 [https://tunombre.github.io/Pagina-Happines-CO/](https://tunombre.github.io/Pagina-Happines-CO/)
-
-> 🙋‍♂️ ¿Tienes dudas? ¡Pregúntame! Estoy aquí para ayudarte a mejorar tu repositorio.
+## 🔗 Enlace a la versión online
+https://ivanjonasfc.github.io/pagina-web-practica-dam1/index.html
+ 
