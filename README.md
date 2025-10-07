@@ -49,7 +49,7 @@ Pagina-Happines&CO/
 ---
 
 ## 🚀 Cómo ver el proyecto (local)
-1. [Live demo en GitHub Pages](https://ivanjonasfc.github.io/pagina-web-practica-dam1/index.html) 
+1. [Live demo en GitHub Pages](https://ivanjonasfc.github.io/Happines-CO/) 
 2. Clona el repo y abrir la pagina index en local:
    ```bash
    git clone https://github.com/ivanjonasfc/pagina-web-practica-dam1.git
