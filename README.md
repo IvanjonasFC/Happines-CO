@@ -69,5 +69,5 @@ Pagina-Happines&CO/
 ---
 
 ## ✉️ Contacto
-Ivan Jonas — [https://github.com/ivanjonasfc](https://www.linkedin.com/in/ivanjonasfc/)
+Ivan Jonas — https://www.linkedin.com/in/ivanjonasfc/
  
